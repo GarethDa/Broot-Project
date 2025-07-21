@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 64fdf0e8d6b363343bc70f964eb7a68a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2227774022552203865
+    second: leaf-frame-clipart-lg_0
+  - first:
+      213: 6509711141204514964
+    second: leaf-frame-clipart-lg_1
+  - first:
+      213: 948702796838868911
+    second: leaf-frame-clipart-lg_2
+  - first:
+      213: -7921648361157692438
+    second: leaf-frame-clipart-lg_3
+  - first:
+      213: 5294561736937088187
+    second: leaf-frame-clipart-lg_4
+  - first:
+      213: 5559052461680979346
+    second: leaf-frame-clipart-lg_5
+  - first:
+      213: -5123327593209652343
+    second: leaf-frame-clipart-lg_6
+  - first:
+      213: -6485979649473296805
+    second: leaf-frame-clipart-lg_7
+  - first:
+      213: -4082417691066585480
+    second: leaf-frame-clipart-lg_8
+  - first:
+      213: 8391534652918456434
+    second: leaf-frame-clipart-lg_9
+  - first:
+      213: -1473830718001762418
+    second: leaf-frame-clipart-lg_10
+  - first:
+      213: 3562660124012048412
+    second: leaf-frame-clipart-lg_11
+  - first:
+      213: -5602019628570860207
+    second: leaf-frame-clipart-lg_12
+  - first:
+      213: 5739993963593010575
+    second: leaf-frame-clipart-lg_13
+  - first:
+      213: 640546942573241485
+    second: leaf-frame-clipart-lg_14
+  - first:
+      213: -7376476156511893152
+    second: leaf-frame-clipart-lg_15
+  - first:
+      213: -6339078990380140130
+    second: leaf-frame-clipart-lg_16
+  - first:
+      213: -1978905185958623347
+    second: leaf-frame-clipart-lg_17
+  - first:
+      213: 41498806168402580
+    second: leaf-frame-clipart-lg_18
+  - first:
+      213: 107609898584333044
+    second: leaf-frame-clipart-lg_19
+  - first:
+      213: 7718926272135781944
+    second: leaf-frame-clipart-lg_20
+  - first:
+      213: 4759193040959341593
+    second: leaf-frame-clipart-lg_21
+  - first:
+      213: 5200801106110406591
+    second: leaf-frame-clipart-lg_22
+  - first:
+      213: -1949636003311157230
+    second: leaf-frame-clipart-lg_23
+  - first:
+      213: 1323255984614938080
+    second: leaf-frame-clipart-lg_24
+  - first:
+      213: -6770351793844887650
+    second: leaf-frame-clipart-lg_25
+  - first:
+      213: -234736207590015816
+    second: leaf-frame-clipart-lg_26
+  - first:
+      213: -3859553855599697102
+    second: leaf-frame-clipart-lg_27
+  - first:
+      213: -4595431603693344661
+    second: leaf-frame-clipart-lg_28
+  - first:
+      213: 5367539143622833501
+    second: leaf-frame-clipart-lg_29
+  - first:
+      213: 2853390914192713160
+    second: leaf-frame-clipart-lg_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 213
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adcee9645b5511e0800000000000000
+      internalID: -2227774022552203865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 776
+        width: 194
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d5e10bc3275a50800000000000000
+      internalID: 6509711141204514964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 860
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71003da287a2d00800000000000000
+      internalID: 948702796838868911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 850
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f3a549c6a01290800000000000000
+      internalID: -7921648361157692438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 788
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4a28319df0a7940800000000000000
+      internalID: 5294561736937088187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 843
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d6142c2c8b52d40800000000000000
+      internalID: 5559052461680979346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 790
+        width: 184
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b18c2d2b846e8b0800000000000000
+      internalID: -5123327593209652343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 832
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b564bbc7fdb2df5a0800000000000000
+      internalID: -6485979649473296805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 834
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea4335db65857c0800000000000000
+      internalID: -4082417691066585480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 798
+        width: 168
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270e59b7e48b47470800000000000000
+      internalID: 8391534652918456434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_10
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 791
+        width: 197
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f227a45c6eb8be0800000000000000
+      internalID: -1473830718001762418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_11
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 531
+        width: 109
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ff2bc18c117130800000000000000
+      internalID: 3562660124012048412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_12
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 749
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155a44e14d0a142b0800000000000000
+      internalID: -5602019628570860207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 101
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d09dc191e88af40800000000000000
+      internalID: 5739993963593010575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_14
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 453
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d846a0eec0ea3e800800000000000000
+      internalID: 640546942573241485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06948f4940e71a990800000000000000
+      internalID: -7376476156511893152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_16
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 278
+        width: 100
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ff3f7e311708a0800000000000000
+      internalID: -6339078990380140130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8702c2d7348984e0800000000000000
+      internalID: -1978905185958623347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 110
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3540c1fe639000800000000000000
+      internalID: 41498806168402580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa5f63f1ae4e7100800000000000000
+      internalID: 107609898584333044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e55124c822f1b60800000000000000
+      internalID: 7718926272135781944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 168
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91484effadc0c0240800000000000000
+      internalID: 4759193040959341593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 187
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf5b2d0d05fc2840800000000000000
+      internalID: 5200801106110406591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_23
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108355726081f4e0800000000000000
+      internalID: -1949636003311157230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 219
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e512ed9e462d5210800000000000000
+      internalID: 1323255984614938080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 212
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f52731ae0ea02a0800000000000000
+      internalID: -6770351793844887650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_26
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 93
+        width: 109
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcbca2b9ac0ebcf0800000000000000
+      internalID: -234736207590015816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233ad75973c107ac0800000000000000
+      internalID: -3859553855599697102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b682148dd4fb930c0800000000000000
+      internalID: -4595431603693344661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55b4a5a9645d7a40800000000000000
+      internalID: 5367539143622833501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf-frame-clipart-lg_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5a8c52be7499720800000000000000
+      internalID: 2853390914192713160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leaf-frame-clipart-lg_0: -2227774022552203865
+      leaf-frame-clipart-lg_1: 6509711141204514964
+      leaf-frame-clipart-lg_10: -1473830718001762418
+      leaf-frame-clipart-lg_11: 3562660124012048412
+      leaf-frame-clipart-lg_12: -5602019628570860207
+      leaf-frame-clipart-lg_13: 5739993963593010575
+      leaf-frame-clipart-lg_14: 640546942573241485
+      leaf-frame-clipart-lg_15: -7376476156511893152
+      leaf-frame-clipart-lg_16: -6339078990380140130
+      leaf-frame-clipart-lg_17: -1978905185958623347
+      leaf-frame-clipart-lg_18: 41498806168402580
+      leaf-frame-clipart-lg_19: 107609898584333044
+      leaf-frame-clipart-lg_2: 948702796838868911
+      leaf-frame-clipart-lg_20: 7718926272135781944
+      leaf-frame-clipart-lg_21: 4759193040959341593
+      leaf-frame-clipart-lg_22: 5200801106110406591
+      leaf-frame-clipart-lg_23: -1949636003311157230
+      leaf-frame-clipart-lg_24: 1323255984614938080
+      leaf-frame-clipart-lg_25: -6770351793844887650
+      leaf-frame-clipart-lg_26: -234736207590015816
+      leaf-frame-clipart-lg_27: -3859553855599697102
+      leaf-frame-clipart-lg_28: -4595431603693344661
+      leaf-frame-clipart-lg_29: 5367539143622833501
+      leaf-frame-clipart-lg_3: -7921648361157692438
+      leaf-frame-clipart-lg_30: 2853390914192713160
+      leaf-frame-clipart-lg_4: 5294561736937088187
+      leaf-frame-clipart-lg_5: 5559052461680979346
+      leaf-frame-clipart-lg_6: -5123327593209652343
+      leaf-frame-clipart-lg_7: -6485979649473296805
+      leaf-frame-clipart-lg_8: -4082417691066585480
+      leaf-frame-clipart-lg_9: 8391534652918456434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
