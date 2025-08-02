@@ -8,10 +8,14 @@ using System.Linq;
 
 public class MenuManager : MonoBehaviour
 {
-    //public UnityEvent<MenuTypes, MenuTypes> OpenMenuEvent = new UnityEvent<MenuTypes, MenuTypes>();
+    //The menu opening event, invoked whenever a menu is opened
     public static event System.Action<MenuTypes> e_MenuOpened;
 
+    //The currently opened menu
     private static MenuTypes currentMenu = MenuTypes.DEFAULT;
+
+    //The most recently stored menu, to be opened the next time a menu in storeWhenOpened is closed
+    //(as long as a menu in notToStore wasn't opened)
     private static MenuTypes storedMenu = MenuTypes.DEFAULT;
 
     //Since the stored menutype is meant to hold the last menu that was opened before pausing,
@@ -24,22 +28,16 @@ public class MenuManager : MonoBehaviour
     private static MenuTypes[] storeWhenOpened =
         { MenuTypes.PAUSE_MENU };
 
-    //public static event System.Action<MenuTypes> e_OpenOverlaidMenu;
-
-    //public static event System.Action<MenuTypes> e_OpenPauseMenu;
-    /*
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-    }
-    */
-
     // Update is called once per frame
     void Update()
     {
     }
 
-    //Pass -1 to open stored menu
+    //Function for invoking the menu opening event.
+    //This should mainly be attached to buttons that are used to open menus,
+    //and to menu-opening inputs (e.g. ESC to open pause menu).
+    //Unfortunately, Unity doesn't allow for enums in the button event editor,
+    //so this allows an int as input and converts it to the corresponding MenuType within the function.
     public static void OpenMenu(int menuToOpen)
     {
         MenuTypes menuTypeToOpen;
@@ -57,23 +55,12 @@ public class MenuManager : MonoBehaviour
         
     }
 
+    //Function for opening a stored menu, don't think I need this anymore but will hold onto it for more
     public static void OpenStoredMenu()
     {
         e_MenuOpened?.Invoke(storedMenu);
         currentMenu = storedMenu;
     }
-
-    /*
-    public static void OpenOverlaidMenu(int menuToOpen)
-    {
-        e_OpenOverlaidMenu?.Invoke((MenuTypes)menuToOpen);
-    }
-
-    public static void OpenPauseMenu(int menuToOpen)
-    {
-        e_OpenPauseMenu?.Invoke((MenuTypes)menuToOpen);
-    }
-    */
 }
 
 

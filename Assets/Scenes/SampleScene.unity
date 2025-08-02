@@ -281,8 +281,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 700.5, y: -5.067627}
-  m_SizeDelta: {x: -1399, y: -109.0023}
+  m_AnchoredPosition: {x: 700, y: -5.067627}
+  m_SizeDelta: {x: -1400, y: -109.0023}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &21576272
 MonoBehaviour:
@@ -337,11 +337,11 @@ MonoBehaviour:
   thisMenu: 6
   startsActive: 0
   animateTransition: 1
-  openTo: {fileID: 2030695651}
-  closeTo: {fileID: 261739925}
-  animationDuration: 1
-  animationDirection: 0
-  animationType: 0
+  openingDuration: 1.5
+  closingDuration: 1.5
+  openFrom: 0
+  openingAnimation: 0
+  closingAnimation: 0
 --- !u!1 &28006735
 GameObject:
   m_ObjectHideFlags: 0
@@ -1501,7 +1501,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1303, y: 269, z: -10}
+  m_LocalPosition: {x: -1278, y: 294, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1921,12 +1921,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thisMenu: 5
   startsActive: 1
-  animateTransition: 0
-  openTo: {fileID: 0}
-  closeTo: {fileID: 0}
-  animationDuration: 1
-  animationDirection: 0
-  animationType: 0
+  animateTransition: 1
+  openingDuration: 1.5
+  closingDuration: 1.5
+  openFrom: 1
+  openingAnimation: 0
+  closingAnimation: 0
 --- !u!114 &858818869 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7488855800451425575, guid: f9e2d055a258db547a8f4ee00ac25cbd, type: 3}
@@ -3603,11 +3603,11 @@ MonoBehaviour:
   thisMenu: 3
   startsActive: 0
   animateTransition: 1
-  openTo: {fileID: 0}
-  closeTo: {fileID: 0}
-  animationDuration: 3
-  animationDirection: 0
-  animationType: 1
+  openingDuration: 3
+  closingDuration: 1
+  openFrom: 2
+  openingAnimation: 5
+  closingAnimation: 3
 --- !u!1 &1716249347
 GameObject:
   m_ObjectHideFlags: 0
@@ -4121,11 +4121,11 @@ MonoBehaviour:
   thisMenu: 2
   startsActive: 0
   animateTransition: 0
-  openTo: {fileID: 0}
-  closeTo: {fileID: 0}
-  animationDuration: 1
-  animationDirection: 0
-  animationType: 0
+  openingDuration: 2
+  closingDuration: 1
+  openFrom: 1
+  openingAnimation: 4
+  closingAnimation: 3
 --- !u!114 &1949404395 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7488855800451425575, guid: f9e2d055a258db547a8f4ee00ac25cbd, type: 3}
@@ -4482,11 +4482,11 @@ MonoBehaviour:
   thisMenu: 1
   startsActive: 0
   animateTransition: 0
-  openTo: {fileID: 0}
-  closeTo: {fileID: 0}
-  animationDuration: 1
-  animationDirection: 0
-  animationType: 0
+  openingDuration: 2
+  closingDuration: 1
+  openFrom: 0
+  openingAnimation: 3
+  closingAnimation: 2
 --- !u!114 &2109331836
 MonoBehaviour:
   m_ObjectHideFlags: 0
