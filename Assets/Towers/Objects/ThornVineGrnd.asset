@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5d46b8175a6c9468d3dc68789dc341, type: 3}
+  m_Name: ThornVineGrnd
+  m_EditorClassIdentifier: 
+  thisCategory: 0
+  thisTower: 4
+  towerName: Ground Thorn Vine
+  health: 600
+  cost: 100
+  attackDmg: 12
+  attackCooldown: 3
+  baseSprite: {fileID: -4767524883844491589, guid: a1b936fc4b5866c48b9451aa54ffdebc, type: 3}
+  towerDescription: Edit description.

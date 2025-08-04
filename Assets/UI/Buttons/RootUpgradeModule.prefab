@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1273990084132281574}
   m_Layer: 5
-  m_Name: Upgrading_Ui_Module
+  m_Name: RootUpgradeModule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
