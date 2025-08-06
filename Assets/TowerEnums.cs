@@ -19,3 +19,16 @@ public enum TowerTypes
     UNDERG2,
     UNDERG3
 }
+
+public enum TowerSlots
+{
+    NONE,
+    GROUND1,
+    GROUND2,
+    GROUND3,
+    GROUND4,
+    AIR1,
+    AIR2,
+    AIR3,
+    AIR4
+}

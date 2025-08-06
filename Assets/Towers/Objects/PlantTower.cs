@@ -14,9 +14,16 @@ public class Tower : ScriptableObject
     [SerializeField]
     public float cost = 100;
     [SerializeField]
-    public float attackDmg;
+    public float attackDmg = 1;
     [SerializeField]
-    public float attackCooldown;
+    public float attackCooldown = 1;
+    [SerializeField]
+    public float attackRange = 1;
+    [Tooltip("Put -1 for hitting all targets in area")]
+    [SerializeField]
+    public int numTargets = 1;
+    [SerializeField]
+    public bool damageOT = false;
     [SerializeField]
     public Sprite baseSprite;
     [SerializeField]

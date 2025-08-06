@@ -9,8 +9,6 @@ public class TowerButton : MonoBehaviour
 
     private GameObject towerProfile;
 
-    public event System.Action e_TowerShopButtonClicked;
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,9 +16,9 @@ public class TowerButton : MonoBehaviour
         
         //Instantiate as a child of the canvas in order to get the same transform as the template,
         //then set as child of button for organization
-        towerProfile = Instantiate(profileTemplate, gameObject.transform.parent.parent);
-        towerProfile.transform.SetParent(gameObject.transform);
-        towerProfile.GetComponent<ProfileSetup>().SetProfileFields(towerInfo.baseSprite, towerInfo.towerName, towerInfo.FormatStats(), towerInfo.towerDescription, towerInfo.cost);
+        towerProfile = Instantiate(profileTemplate, transform.parent.parent);
+        towerProfile.transform.SetParent(transform);
+        towerProfile.GetComponent<ProfileSetup>().SetProfileFields(towerInfo);
         
         towerProfile.SetActive(false);
 
@@ -46,12 +44,17 @@ public class TowerButton : MonoBehaviour
             GetComponent<Toggle>().isOn = false;
     }
 
-    void SetProfileActive(bool activated)
+    public void SetProfileActive(bool activated)
     {
         if (activated)
             towerProfile.SetActive(true);
         else
             towerProfile.SetActive(false);
         //e_TowerShopButtonClicked.Invoke();
+    }
+
+    public Tower GetTowerInfo()
+    {
+        return towerInfo;
     }
 }
